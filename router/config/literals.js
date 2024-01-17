@@ -2,7 +2,7 @@ var message = {}
 message.START = {
     "type": "button",
     "data": {
-        "text": " Hello, I am Tara!<br>I am your DIKSHA guide<br>Please select your preference from the options I provide or type your query directly.",
+        "text": " Hello, I am Tara!<br>I am your DIKSHA guide<br>Please select your preference from the below options I provide.",
         "buttons": [
             {
                 "text": "Digital content",
